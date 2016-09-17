@@ -1,0 +1,22 @@
+{
+  "name": "jarvis-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalettu/jarvis-bot.git"
+  },
+  "author": "Chris Hale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chalettu/jarvis-bot/issues"
+  },
+  "homepage": "https://github.com/chalettu/jarvis-bot#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.2.0"
+  }
+}
